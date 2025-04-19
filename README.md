@@ -53,6 +53,6 @@ O objetivo deste projeto foi desenvolver a interface interativa de um aplicativo
 ---
 
 ## 🚀 Créditos
-Projeto desenvolvido por: **[Thiago Bernardo, Rodrigo Neves e Guilherme Barbosa**  
+Projeto desenvolvido por: **[Thiago Bernardo, Rodrigo Neves e Guilherme Barbosa]**  
 Disciplina: *Concepção de Artefatos Digitais*  
 Semestre: 2024.2
