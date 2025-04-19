@@ -33,6 +33,13 @@ O objetivo deste projeto foi desenvolver a interface interativa de um aplicativo
 ### 🗓️ Planejador Semanal
 ![Planejamento](./imagens/prototipo_planejamento.png)
 
+### 🗓️ Meu Armário
+![Planejamento](./imagens/prototipo_armario.png)
+
+### 🗓️ Food Champs
+![Planejamento](./imagens/prototipo_foodchamps.png)
+
+
 ---
 
 ## 📦 Organização do Projeto
